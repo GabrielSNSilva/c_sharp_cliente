@@ -1,0 +1,10 @@
+c:\users\gabri\source\repos\TI81_SIQUEIRA\TI81_SIQUEIRA\bin\Debug\TI81_SIQUEIRA.exe.config
+c:\users\gabri\source\repos\TI81_SIQUEIRA\TI81_SIQUEIRA\bin\Debug\TI81_SIQUEIRA.exe
+c:\users\gabri\source\repos\TI81_SIQUEIRA\TI81_SIQUEIRA\bin\Debug\TI81_SIQUEIRA.pdb
+c:\users\gabri\source\repos\TI81_SIQUEIRA\TI81_SIQUEIRA\obj\Debug\TI81_SIQUEIRA.csprojResolveAssemblyReference.cache
+c:\users\gabri\source\repos\TI81_SIQUEIRA\TI81_SIQUEIRA\obj\Debug\TI81_SIQUEIRA.frmCliente.resources
+c:\users\gabri\source\repos\TI81_SIQUEIRA\TI81_SIQUEIRA\obj\Debug\TI81_SIQUEIRA.Properties.Resources.resources
+c:\users\gabri\source\repos\TI81_SIQUEIRA\TI81_SIQUEIRA\obj\Debug\TI81_SIQUEIRA.csproj.GenerateResource.cache
+c:\users\gabri\source\repos\TI81_SIQUEIRA\TI81_SIQUEIRA\obj\Debug\TI81_SIQUEIRA.csproj.CoreCompileInputs.cache
+c:\users\gabri\source\repos\TI81_SIQUEIRA\TI81_SIQUEIRA\obj\Debug\TI81_SIQUEIRA.exe
+c:\users\gabri\source\repos\TI81_SIQUEIRA\TI81_SIQUEIRA\obj\Debug\TI81_SIQUEIRA.pdb
